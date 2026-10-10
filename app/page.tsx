@@ -578,7 +578,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-white/[0.08]">
         <div className="mx-auto flex max-w-6xl flex-col gap-3 px-5 py-7 text-xs text-zinc-500 sm:flex-row sm:items-center sm:justify-between sm:px-8">
-          <p>© {new Date().getFullYear()} FIidelis Daleck — Portfolio personnel</p>
+          <p>© 2026 Fidelis Daleck — Portfolio personnel</p>
           <p>Conçu avec curiosité</p>
           <a href="#accueil" className="transition hover:text-violet-300">
             Retour en haut ↑
